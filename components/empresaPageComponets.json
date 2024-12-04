@@ -16,8 +16,10 @@
             },
             "lojasComponets": {
                 "araLoja1": {
-                    "component": "//*[@id='main']/div/div[2]/ul/li[4]/img",
-                    "araLoja2": "//*[@id='main']/div/div[2]/ul/li[5]/img"
+                    "component": "//*[@id='main']/div/div[2]/ul/li[4]/img"
+                },
+                "araLoja2": {
+                    "loja component": "//*[@id='main']/div/div[2]/ul/li[5]/img"
                 }
             }
         }
