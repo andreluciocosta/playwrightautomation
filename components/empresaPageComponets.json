@@ -6,13 +6,13 @@
         "missaoComponents": "//*[@id='main']/div/div[1]/h3[1]",
         "lojasComponets": {
             "udiLoja1": {
-                "component": "//*[@id='main']/div/div[2]/ul/li[1]/img",
+                "component": "//*[@id='main']/div/div[2]/ul/li[1]/img"
             },
             "udiLoja2": {
-                "component": "//*[@id='main']/div/div[2]/ul/li[2]/img",
+                "component": "//*[@id='main']/div/div[2]/ul/li[2]/img"
             },
             "udiLoja3": {
-                "component": "//*[@id='main']/div/div[2]/ul/li[3]/img",
+                "component": "//*[@id='main']/div/div[2]/ul/li[3]/img"
             },
             "lojasComponets": {
                 "araLoja1": {
@@ -20,3 +20,6 @@
                     "araLoja2": "//*[@id='main']/div/div[2]/ul/li[5]/img"
                 }
             }
+        }
+    }
+}
