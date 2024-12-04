@@ -1,6 +1,6 @@
 {
     "contatosPage": {
-        "contatosComponent":{
+        "contatosComponents":{
             "nome":"//*[@id='wpcf7-f22-p14-o1']/form/p[1]/span[1]/input",
             "email":"//*[@id='wpcf7-f22-p14-o1']/form/p[1]/span[2]/input",
             "telefone":"//*[@id='wpcf7-f22-p14-o1']/form/p[1]/span[3]/input",
