@@ -1,0 +1,12 @@
+{
+    "servicosPage":{
+        "enderecosComponent":{
+            "araLoja1":"/html/body/footer/div/div[1]/p[1]",
+            "araLoja2":"/html/body/footer/div/div[1]/p[2]",
+            "udiLoja1":"/html/body/footer/div/div[2]/p[1]",
+            "udiLoja2":"/html/body/footer/div/div[2]/p[2]",
+            "udiLoja3":"/html/body/footer/div/div[2]/p[3]"
+        
+        }
+    }
+}
