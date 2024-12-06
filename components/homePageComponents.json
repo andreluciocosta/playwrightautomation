@@ -1,6 +1,6 @@
 {
-   "homePage": {
-      "telefoneComponents": "/html/body/div[2]/header/div/div/a",
+   "homePageComponents": {
+      "telefoneComponents": "Telefones",
       "logoComponents": "/html/body/div[2]/header/div/div/div[1]/h1/a/img",
       "ferramentasComponents": {
          "component": "//*[@id='main']/div/div[1]/ul/li[1]/a",
