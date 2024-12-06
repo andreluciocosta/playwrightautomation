@@ -1,11 +1,11 @@
 {
-    "servicosPage":{
+    "servicosPageComponents":{
         "enderecosComponent":{
-            "araLoja1":"/html/body/footer/div/div[1]/p[1]",
-            "araLoja2":"/html/body/footer/div/div[1]/p[2]",
-            "udiLoja1":"/html/body/footer/div/div[2]/p[1]",
-            "udiLoja2":"/html/body/footer/div/div[2]/p[2]",
-            "udiLoja3":"/html/body/footer/div/div[2]/p[3]"
+            "araLoja1":"Av. Batalhão Mauá, 1501 - 34",
+            "araLoja2":"Av. Mato Grosso, 1226 - LJ A - 34",
+            "udiLoja1":"Av. Belo Horizonte, 575 - 34",
+            "udiLoja2":"Av. Afonso Pena, 2087 - 34",
+            "udiLoja3":"Av. Afonso Pena, 2087 - 34"
         
         }
     }

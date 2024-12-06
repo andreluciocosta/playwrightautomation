@@ -1,10 +1,10 @@
 {
-    "produtosPage":{
+    "produtosPageComponents":{
         "catalagoComponent":{
-            "acessoriosComponent":"//*[@id='main']/div/div[1]/ul/li[2]/ul/li[1]/a",
-            "entreSemBaterComponent":"//*[@id='main']/div/div[2]/h2",
-            "calculadoraDeTintasComponent":"//*[@id='main']/div/div[1]/ul/li[3]/a",
-            "dicasDePinturasComponent":"//*[@id='main']/div/div[1]/ul/li[1]/a"
+            "acessoriosComponent":"Catálogo de Produtos",
+            "entreSemBaterComponent":"Entre sem bater!",
+            "calculadoraDeTintasComponent":"Calculadora de Tintas",
+                      "dicasDePinturasComponent":"Dicas de Pintura"
         }         
     }
 }
